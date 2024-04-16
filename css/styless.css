@@ -1,0 +1,18 @@
+body{
+ background-color: rgba(137, 43, 226, 0.334);
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-size: 15px;
+ color: rgba(0, 0, 0, 0.759);
+}
+
+.mainbody {
+    top:114px; 
+}
+
+ul{
+    color: blueviolet;
+}
+
+h2 {
+    text-underline-position: below
+}
